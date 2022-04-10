@@ -1,0 +1,33 @@
+.appbackground{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+background-repeat: no-repeat;
+background-position: center;
+ background-size: cover;
+}
+
+.appbackdrop{
+    position: absolute;
+width: 70vw;
+height: 40vw;
+left: 15vw;
+top:4vw;
+background: linear-gradient(106.82deg, rgba(255, 255, 255, 0.16) -1.12%, rgba(255, 255, 255, 0.04) 98.4%);
+box-shadow: 11px 11px 4px rgba(0, 0, 0, 0.25);
+filter: blur(0px);
+backdrop-filter: blur(3px);
+border-radius: 5.5vw;
+border: 2px whitesmoke solid;
+}
+.apphead{
+position: absolute;
+left: 22vw;
+top: 6vw;
+font-family: 'Inter';
+font-style: normal;
+font-size: 4vw;
+color: rgba(216, 228, 232, 0.79);
+letter-spacing: 0.05em;
+text-shadow: 5px 6px 4px #00546D;
+}

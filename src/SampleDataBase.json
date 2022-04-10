@@ -1,0 +1,198 @@
+[{
+    "name":"Newlife hospital.",
+    "id":"1",
+    "generalbedsavailable":["newG1","newG2","newG3","newG4","newG5","newG6"],
+    "emergencybedsavailable":["newE1","newE2","newE3","newE4","newE5","newE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/V42rdrKG9ib7bfhK7",
+    "address":"no:30 Newlife hospital chennai-50",
+    "pincode":"600050"
+},
+{
+    "name":"Care & Cure Hospital.",
+    "id":"2",
+    "generalbedsavailable":["c&cG11","c&cG2","c&cG23","c&cG34","c&cG35","c&cG6"],
+    "emergencybedsavailable":["c&cE1","c&cE2","c&cE3","c&cE4","c&cE5"],
+    "bloodavailable":["A+","B+","O+"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/FL1XBRKbfhm5M5vP7",
+    "address":"no:30 Care & Cure Hospital. chennai-50",
+    "pincode":"600050"
+},{
+    "name":"Remedy plus care.",
+    "id":"4",
+    "generalbedsavailable":["rpcG10","rpcG21","rpcG30","rpcG41","rpcG57","rpcG6"],
+    "emergencybedsavailable":["rpcE1","rpcE2","rpcE3","rpcE4"],
+    "bloodavailable":["O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://g.page/RathiMedHospitalChennai?share",
+    "address":"no:50 Remedy plus care chennai-50",
+    "pincode":"600050"
+},
+{
+    "name":"Medwin Cares",
+    "id":"3",
+    "generalbedsavailable":["mcG1","mcG2","mcG3","mcG4","mcG5","mcG6"],
+    "emergencybedsavailable":["mcE1","mcE2","mcE3","mcE4","mcE5","mcE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/m5mPmBqFfPuVysa99",
+    "address":"no:50 Medwin Cares chennai-37",
+    "pincode":"600037"
+},
+{
+    "name":"Health Object Hospital.",
+    "id":"5",
+    "generalbedsavailable":["hohG1","hohG2","hohG3","hohG4","hohG5","hohG6"],
+    "emergencybedsavailable":["hohE1","hohE2","hohE3","hohE4","hohE5","hohE6"],
+    "bloodavailable":["A+","B+","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/xibRBWEwzk3Bjn5n8",
+    "address":"no:30 Health Object Hospital chennai-37",
+    "pincode":"600037"
+},
+{
+    "name":"Mankind Medicare",
+    "id":"6",
+    "generalbedsavailable":["mmG1","mmG2","mmG3","mmG4","mmG5","mmG6"],
+    "emergencybedsavailable":["mmE1","mmE2","mmE3","mmE4","mmE5","mmE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/Vi8RW4zSaaS9nTDg8",
+    "address":"no:50 Mankind Medicare chennai-37",
+    "pincode":"600037"
+},
+{
+    "name":"Redstar Hospital",
+    "id":"7",
+    "generalbedsavailable":["rhG1","rhG2","rhG3","rhG4","rhG5","rhG6"],
+    "emergencybedsavailable":["rhE1","rhE2","rhE3","rhE4","rhE5","rhE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/fLQuMr5QjmEAWpZ3A",
+    "address":"no:30 Redstar Hospital chennai-20",
+    "pincode":"600020"
+},
+{
+    "name":"Ace hospital",
+    "id":"8",
+    "generalbedsavailable":["ahG1","ahG2","ahG3","ahG4","ahG5","ahG6"],
+    "emergencybedsavailable":["ahE1","ahE2","ahE3","ahE4","ahE5","ahE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/YAd4MH5ifuwamkpGA",
+    "address":"no:30 Ace hospital chennai-20",
+    "pincode":"600020"
+},
+{
+    "name":"NorthMark",
+    "id":"9",
+    "generalbedsavailable":["nmG1","nmG2","nmG3","nmG4","nmG5","nmG6"],
+    "emergencybedsavailable":["nmE1","nmE2","nmE3","nmE4","nmE5","nmE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/bJESfJJY4vWf6AfU9",
+    "address":"no:30 NorthMark chennai-20",
+    "pincode":"600020"
+},
+{
+    "name":"wellHue Hospital",
+    "id":"10",
+    "generalbedsavailable":["whG1","whG2","whG3","whG4","whG5","whG6"],
+    "emergencybedsavailable":["whE1","whE2","whE3","whE4","whE5","whE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://g.page/ICHandHC?share",
+    "address":"no:30 wellHue Hospital chennai-28",
+    "pincode":"600028"
+},
+{
+    "name":"GoodAce care",
+    "id":"11",
+    "generalbedsavailable":["gacG1","gacG2","gacG3","gacG4","gacG5","gacG6"],
+    "emergencybedsavailable":["gacE1","gacE2","gacE3","gacE4","gacE5","gacE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://g.page/PrashanthMultiSpecialityHospital?share",
+    "address":"no:30 GoodAce care chennai-28",
+    "pincode":"600028"
+},
+{
+    "name":"HealthStreet",
+    "id":"12",
+    "generalbedsavailable":["hsG1","hsG2","hsG3","hsG4","hsG5","hsG6"],
+    "emergencybedsavailable":["hsE1","hsE2","hsE3","hsE4","hsE5","hsE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/5EpgnLD7U1YmYafx5",
+    "address":"no:30 ealthStreet chennai-28",
+    "pincode":"600028"
+},
+{
+    "name":"YouHeal Hospital",
+    "id":"13",
+    "generalbedsavailable":["yhhG1","yhhG2","yhhG3","yhhG4","yhhG5","yhhG6"],
+    "emergencybedsavailable":["yhhE1","yhhE2","yhhE3","yhhE4","yhhE5","yhhE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/KjHyFqzGJYt1sUWS8",
+    "address":"no:30 YouHeal Hospital chennai-40",
+    "pincode":"600040"
+},
+{
+    "name":"Midsummer Premium Hospital",
+    "id":"14",
+    "generalbedsavailable":["mphG1","mphG2","mphG3","mphG4","mphG5","mphG6"],
+    "emergencybedsavailable":["mphE1","mphE2","mphE3","mphE4","mphE5","mphE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/G5qgrtq44XKM2DwG7",
+    "address":"no:30 Midsummer Premium Hospital chennai-40",
+    "pincode":"600040"
+},
+{
+    "name":"Angelcare hopsital",
+    "id":"15",
+    "generalbedsavailable":["achG1","achG2","achG3","achG4","achG5","achG6"],
+    "emergencybedsavailable":["achE1","achE2","achE3","achE4","achE5","achE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/UKCcLDLP7miN614Q6",
+    "address":"no:30 Angelcare Hospital chennai-40",
+    "pincode":"600040"
+},
+{
+    "name":"Hope Hospital",
+    "id":"16",
+    "generalbedsavailable":["hhG1","hhG2","hhG3","hhG4","hhG5","hhG6"],
+    "emergencybedsavailable":["hhE1","hhE2","hhE3","hhE4","hhE5","hhE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://goo.gl/maps/JtVbtkXeCq2auYks9",
+    "address":"no:50 Hope Hospital chennai-56",
+    "pincode":"600056"
+},
+{
+    "name":"Soulbless Hospital",
+    "id":"17",
+    "generalbedsavailable":["sbhG1","sbhG2","sbhG3","sbhG4","sbhG5","sbhG6"],
+    "emergencybedsavailable":["sbhE1","sbhE2","sbhE3","sbhE4","sbhE5","sbhE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://g.page/Swaram-Sholinganallur?share",
+    "address":"no:30 Soulbless Hospital chennai-56",
+    "pincode":"600056"
+},
+{
+    "name":"Summer spring Hospital",
+    "id":"18",
+    "generalbedsavailable":["sshG1","sshG2","sshG3","sshG4","sshG5","sshG6"],
+    "emergencybedsavailable":["sshE1","sshE2","sshE3","sshE4","sshE5","sshE6"],
+    "bloodavailable":["A+","B+","O+","B-","AB+","AB-"],
+    "contactno":"7338942588",
+    "googlemaplink":"https://g.page/kedarmain?share",
+    "address":"no:50 Summer spring Hospital chennai-56",
+    "pincode":"600056"
+}
+]

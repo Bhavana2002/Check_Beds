@@ -1,0 +1,27 @@
+.tablecss {
+    position: absolute;
+    top: 20vw;
+    left: 25vw;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  background-color: rgb(255, 255, 255,0.7);
+}
+
+.tdthcss {
+  border: 1px solid #aba7a7;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+}
+.apphead{
+position: absolute;
+left: 36vw;
+top: 6vw;
+font-family: 'Inter';
+font-style: normal;
+font-size: 4vw;
+color: rgba(216, 228, 232, 0.79);
+letter-spacing: 0.05em;
+text-shadow: 5px 6px 4px #00546D;
+}
